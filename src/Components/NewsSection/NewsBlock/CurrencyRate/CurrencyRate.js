@@ -1,4 +1,5 @@
 import React from 'react';
+import Rate from './Rate/Rate';
 
 // представление списка курса валют
 function CurrencyRate(props) {

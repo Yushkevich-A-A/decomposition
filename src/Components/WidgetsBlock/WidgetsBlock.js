@@ -1,5 +1,6 @@
 import React from 'react';
 import Widget from './Widget/Widget';
+import MapWidget from './Widgets/MapWidget/MapWidget';
 import Water from './Widgets/Water/Water';
 import Popular from './Widgets/Popular/Popular';
 import Broadcast from './Widgets/Broadcast/Broadcast';

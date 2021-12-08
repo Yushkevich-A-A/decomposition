@@ -1,5 +1,6 @@
 import React from 'react';
 import Category from './Category/Category';
+import DateWidget from './DateWidget/DateWidget';
 
 // отображение категори новостей
 function NewsCategory(props) {
